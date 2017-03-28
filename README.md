@@ -4,4 +4,4 @@
 
 # 钉钉反馈渠道（紧急问题）：
 
-<img src="https://zos.alipayobjects.com/rmsportal/YWHIiEVJrGNKuAJaipaL.jpg" width="150"/>
+<img src="https://zos.alipayobjects.com/rmsportal/YWHIiEVJrGNKuAJaipaL.jpg" width="200"/>
