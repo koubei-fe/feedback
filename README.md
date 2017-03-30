@@ -8,4 +8,4 @@
 
 如果您的问题非常紧急，需要口碑技术马上支持，请直接用钉钉反馈。
 
-<img src="https://zos.alipayobjects.com/rmsportal/YWHIiEVJrGNKuAJaipaL.jpg" width="200"/>
+<img src="https://zos.alipayobjects.com/rmsportal/YWHIiEVJrGNKuAJaipaL.jpg" width="500"/>
